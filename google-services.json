@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040374644245",
+    "firebase_url": "https://drdalieu-7b592-default-rtdb.firebaseio.com",
+    "project_id": "drdalieu-7b592",
+    "storage_bucket": "drdalieu-7b592.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040374644245:android:902c00fcffd5bca508981c",
+        "android_client_info": {
+          "package_name": "vn.drdalieu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040374644245-26uccc3ku5cbgtpa5db51teqipni2q9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkspgbIm5nIiTMwCB5qg4kuccM3xzvxzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040374644245-26uccc3ku5cbgtpa5db51teqipni2q9m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040374644245-767j9h79r9uqiisim7igj8m3k88jnf8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.drdalieu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
